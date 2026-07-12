@@ -2,12 +2,13 @@
 
 # Hi, I'm Sarthak 👋
 
-### AI/ML Engineer — I build production AI systems, not just notebooks
-
-Turning LLMs, RAG, and agents into resilient, deployed services that hold up under real traffic.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%F0%9F%A4%96;I+build+production+AI+systems%2C+not+notebooks;RAG+%7C+Multi-Agent+%7C+LLM+Orchestration;Document+Intelligence+%26+Voice+Agents;FastAPI+%E2%80%A2+Vector+Search+%E2%80%A2+AWS)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sd-sarthak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakdoshi231@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SdSarthak&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/SdSarthak?style=for-the-badge&color=7AA2F7&labelColor=1a1b27&logo=github)](https://github.com/SdSarthak?tab=followers)
 
 </div>
 
@@ -15,25 +16,61 @@ Turning LLMs, RAG, and agents into resilient, deployed services that hold up und
 
 ## 🚀 What I do
 
-I design and ship **microservices-based AI systems** end to end — from data pipelines and embeddings to LLM orchestration, async processing, and containerized deployment on cloud infra. Most of my work lives in production behind CI/CD, handling real requests with real reliability requirements.
+I design and ship **microservices-based AI systems** end to end — LLM orchestration, RAG, embeddings, async processing, and containerized deployment on cloud infra. Most of it runs in production behind CI/CD, handling real traffic with real reliability requirements.
 
-The kinds of systems I build:
-
-- **🔎 RAG & semantic retrieval** — vector search over document knowledge bases (Chroma, sentence-transformers, LangChain), with retrieval + generation tuned for accuracy and latency.
-- **🤖 Multi-agent systems** — intent routing to specialized agents, with session state and long-term conversation context managed across Redis + MongoDB.
-- **📄 Document intelligence** — extraction pipelines for Excel/PDF with OCR, field-level confidence scoring, and human-in-the-loop review thresholds, driven asynchronously via message queues.
-- **🎙️ Real-time voice agents** — low-latency voice assistants over WebRTC using the OpenAI Realtime API + Whisper, wired to real tools and ticketing systems.
-- **🧩 Matching & entity-resolution engines** — cascaded TF-IDF / cosine-similarity / fuzzy matching for linking messy free text to structured catalogues at scale.
-- **🛡️ Resilient service design** — AI circuit breakers, retry with backoff, SSE streaming, and multi-environment Docker + GitLab CI/CD.
+- **🔎 RAG & semantic retrieval** — vector search over document knowledge bases (Chroma, sentence-transformers, LangChain), tuned for accuracy and latency.
+- **🤖 Multi-agent systems** — intent routing to specialized agents, session + long-term context across Redis and MongoDB.
+- **📄 Document intelligence** — Excel/PDF extraction with OCR, field-level confidence scoring, and queue-driven async processing.
+- **🎙️ Real-time voice agents** — low-latency assistants over WebRTC using the OpenAI Realtime API + Whisper, wired to real tools.
+- **🧩 Matching engines** — cascaded TF-IDF / cosine / fuzzy matching linking messy free text to structured catalogues at scale.
+- **🛡️ Resilient services** — AI circuit breakers, retries with backoff, SSE streaming, multi-env Docker + GitLab CI/CD.
 
 ---
 
-## 🌱 Currently
+## 📊 GitHub Stats
 
-- **Working on** — production RAG chatbots, document-extraction pipelines, and large-scale embedding-based retrieval deployed on AWS.
-- **Learning** — advanced LLM optimization, fine-tuning strategies, and distributed systems for large-scale AI serving.
-- **Focused on** — cutting latency and cost in high-throughput ML applications.
-- **Ask me about** — RAG, GenAI, agents, FastAPI, embeddings, vector databases, and deploying AI on AWS.
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SdSarthak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SdSarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=350" />
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SdSarthak&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SdSarthak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
+### 🧮 Profile Breakdown
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SdSarthak&theme=tokyonight" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SdSarthak&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SdSarthak&theme=tokyonight" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SdSarthak&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SdSarthak&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SdSarthak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
+**GitHub Badges earned:** 🌟 Starstruck &nbsp;•&nbsp; 🦈 Pull Shark &nbsp;•&nbsp; 🎯 YOLO
+
+</div>
 
 ---
 
@@ -81,22 +118,6 @@ The kinds of systems I build:
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SdSarthak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SdSarthak&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SdSarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SdSarthak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
 
 ---
 
