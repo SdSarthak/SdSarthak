@@ -27,53 +27,6 @@ I design and ship **microservices-based AI systems** end to end — LLM orchestr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SdSarthak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SdSarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=350" />
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SdSarthak&theme=tokyonight&hide_border=true)
-
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SdSarthak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-</div>
-
-### 🧮 Profile Breakdown
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SdSarthak&theme=tokyonight" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SdSarthak&theme=tokyonight" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SdSarthak&theme=tokyonight" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SdSarthak&theme=tokyonight" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SdSarthak&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SdSarthak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-**GitHub Badges earned:** 🌟 Starstruck &nbsp;•&nbsp; 🦈 Pull Shark &nbsp;•&nbsp; 🎯 YOLO
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -118,6 +71,53 @@ I design and ship **microservices-based AI systems** end to end — LLM orchestr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SdSarthak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SdSarthak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=350" />
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SdSarthak&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SdSarthak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
+### 🧮 Profile Breakdown
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SdSarthak&theme=tokyonight" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SdSarthak&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SdSarthak&theme=tokyonight" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SdSarthak&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SdSarthak&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SdSarthak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
+**GitHub Badges earned:** 🌟 Starstruck &nbsp;•&nbsp; 🦈 Pull Shark &nbsp;•&nbsp; 🎯 YOLO
+
+</div>
 
 ---
 
